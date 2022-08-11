@@ -5,4 +5,11 @@
 
 
 - 📚 Computer Science student at UEM
-- 👨🏻‍💻 Currently studying react and competitive programming
+- 👨🏻‍💻 Currently studying optimization algorithms and competitive programming
+
+##
+
+  <a href="https://github.com/gabrielld06">
+  <img height="160cm" src="github-readme-stats.vercel.app/api?username=gabrielld06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="github-readme-stats.vercel.app/api/top-langs/?username=gabrielld06&layout=compact&langs_count=8&theme=react"/>
+</div>
